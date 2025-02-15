@@ -20,6 +20,16 @@ class _MytodoState extends State<TodoListHomePage> {
     "Learn Dart",
     "Write a blog post",
     "Watch a movie",
+    "Buy groceries",
+    "Exercise",
+    "Read a book",
+    "Complete Flutter project",
+    "Call a friend",
+    "Clean the house",
+    "Cook dinner",
+    "Learn Dart",
+    "Write a blog post",
+    "Watch a movie",
   ];
 
   @override
